@@ -1,0 +1,33 @@
+.bold {
+ color: black;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: #ffffff;
+   opacity: .7;
+  background-blend-mode: hard-light, luminosity;
+  margin-left: 10px;
+  padding-left: 25px;
+
+}
+
+img {
+  float: left;
+  padding-right: 30px;
+}
+
+.column {
+  width: 600px;
+  float: none;
+}
+
+body {
+  background-image: url("https://cdn.shopify.com/s/files/1/2139/4469/t/2/assets/ewf-logo.png?0")
+
+}
+
+h1 {
+  text-align: center;
+}
